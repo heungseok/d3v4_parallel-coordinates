@@ -1,0 +1,26 @@
+{
+  "name": "d3v4_parallel-coordinates",
+  "version": "1.0.0",
+  "description": "parallel coordinates visualization with d3 version4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heungseok/d3v4_parallel-coordinates.git"
+  },
+  "keywords": [
+    "parallel",
+    "coordinates"
+  ],
+  "author": "Heungseok Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heungseok/d3v4_parallel-coordinates/issues"
+  },
+  "homepage": "https://github.com/heungseok/d3v4_parallel-coordinates#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
